@@ -14,4 +14,8 @@ In conclusion, by meticulously executing data wrangling, database construction, 
 
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
-The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches. Through this analysis, we seek to address pertinent business inquiries, ultimately enhancing our understanding of the company's performance.
+The primary objective was to delve into Walmart's sales data, aiming to comprehend the various factors influencing sales across its branches. Through this analysis, we seek to address pertinent business inquiries, ultimately enhancing our understanding of the company's performance.
+
+
+
+
