@@ -1,7 +1,7 @@
 # Walmart Sales Analysis
 
 *The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.*
-
+ 
 *This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.*
 
 In the initial phase of **data wrangling**, we meticulously inspect the dataset to identify any NULL or missing values. Through various data replacement techniques, we ensure the integrity of our data. Following this, we proceed to build a robust database, creating tables and inserting the refined data.
