@@ -14,6 +14,22 @@ Moving forward, **exploratory data analysis (EDA)** serves as a pivotal stage in
 
 In conclusion, by meticulously executing data wrangling, database construction, feature engineering, and exploratory data analysis, we aim to **extract meaningful insights** to drive informed business decisions and enhance overall performance.
 
+Questions answered: 
+How many unique cities does the data have?
+In which city is each branch?
+How many unique product lines does the data have?
+What is the most common payment method?
+What is the most selling product line?
+What is the total revenue by month?
+What month had the largest COGS?
+What product line had the largest revenue?
+What is the city with the largest revenue?
+What product line had the largest VAT?
+Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+Which branch sold more products than average product sold?
+What is the most common product line by gender?
+What is the average rating of each product line?
+
 The primary objective was to delve into Walmart's sales data, aiming to comprehend the various factors influencing sales across its branches. Through this analysis, we seek to address pertinent business inquiries, ultimately enhancing our understanding of the company's performance.
 
 
